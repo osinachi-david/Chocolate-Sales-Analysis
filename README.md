@@ -1,5 +1,6 @@
 # Chocolate-Sales-Analysis
 ![chocolate.png](https://github.com/osinachi-david/Chocolate-Sales-Analysis/blob/main/chocolate.png)
+
 This analysis was done using EXCEL, here are the following analysis that was done using this data.
 
 1	Quick statistics
